@@ -18,7 +18,7 @@ git clone https://github.com/mineco-dev/historial_consulta_medica.git
 cd historial_consulta_medica
 
 # crear base de datos
-# importar
+# importar la base de datos del directorio bd_script
 # configurar parámetros de conexión a la base de datos en el directorio config/global.php
 
 
