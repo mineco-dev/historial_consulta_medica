@@ -2,7 +2,6 @@
 //Activamos el almacenamiento en el buffer
 ob_start();
 session_start();
-phpinfo();
 if (!isset($_SESSION["nombre"]))
   {
     header("Location: login.html");
